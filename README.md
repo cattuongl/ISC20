@@ -4,5 +4,5 @@ Project can be found on: https://sites.google.com/a/ocdsb.ca/ayj-games/photoghr/
 ...
 - Developed an educational math game for Grade 5 students by incorporating their game ideas and illustrations
 - Collaborated with the students over the school term to obtain project ideas and illustrations
--P roject was presented to Grade 4/5 students, teachers, and school's superintendent
+- Project was presented to Grade 4/5 students, teachers, and school's superintendent
 
