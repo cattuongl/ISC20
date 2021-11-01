@@ -1,5 +1,5 @@
 # ISC20- AYJ Project
-Project name: Pet Game Real /t
+Project name: Pet Game Real <br />
 Project can be found on: https://sites.google.com/a/ocdsb.ca/ayj-games/photoghr/digital
 ...
 - Developed an educational math game for Grade 5 students by incorporating their game ideas and illustrations
